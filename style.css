@@ -1,0 +1,17 @@
+/* header part style */
+
+.header-button{
+    background-color: #E76F51;
+}
+
+.header{
+    background-color: #264653;
+}
+
+
+/* feature part style */
+
+.feature-pic{
+    filter: grayscale(100%);
+}
+
